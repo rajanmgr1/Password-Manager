@@ -1,4 +1,4 @@
-Password Manager 
+Password Manager Features:    
 Login to open the app   
 Add new entry (website, username, password)   
 Edit selected entry   
